@@ -4,7 +4,7 @@ This repository contains training modules and exercises for software development
 
 ## What this repository covers
 
-- Object-oriented design
+- C#
 - Data structures and algorithms
 - SQL and databases
 - Unit testing
